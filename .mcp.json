@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "lordevo-shop": {
+      "type": "streamable-http",
+      "url": "https://shop.lordevo.com/mcp"
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
